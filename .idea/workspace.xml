@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="cartoon:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3e6578e5-4f18-4fcb-8da9-96079ca9041f" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="Jsp File" />
+      </list>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectId" id="1yiKtLlwJbt374xlaoPzlLguv67" />
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="D:/Java" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\赵文瑄\IdeaProjects\cartoon\cartoon\web\admin" />
+      <recent name="C:\Users\赵文瑄\IdeaProjects\cartoon\cartoon\web" />
+      <recent name="C:\Users\赵文瑄\IdeaProjects\cartoon\cartoon\web\WEB-INF\lib" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.Tomcat 8.5.47">
+    <configuration name="express.jsp" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:8080/cartoon_war_exploded/express.jsp">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.jsp" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:8080/cartoon_war_exploded/index.jsp">
+      <method v="2" />
+    </configuration>
+    <configuration name="Tomcat 8.5.47" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.47" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="cartoon:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/cartoon_war_exploded" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_cartoon" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="8365" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="cartoon:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <configuration name="朕的服务器~" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.47" ALTERNATIVE_JRE_ENABLED="false">
+      <deployment>
+        <artifact name="cartoon:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/cartoon" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Tomcat_8_5_47_cartoon" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="8262" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="cartoon:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JavaScript Debug.express.jsp" />
+      <item itemvalue="JavaScript Debug.index.jsp" />
+      <item itemvalue="Tomcat Server.朕的服务器~" />
+      <item itemvalue="Tomcat Server.Tomcat 8.5.47" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.jsp" />
+        <item itemvalue="JavaScript Debug.express.jsp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3e6578e5-4f18-4fcb-8da9-96079ca9041f" name="Default Changelist" comment="" />
+      <created>1632729181488</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1632729181488</updated>
+      <workItem from="1632729185267" duration="2938000" />
+      <workItem from="1632795883563" duration="4045000" />
+      <workItem from="1632980443141" duration="4810000" />
+      <workItem from="1633432158026" duration="214000" />
+      <workItem from="1633843692140" duration="4867000" />
+      <workItem from="1633850044486" duration="817000" />
+      <workItem from="1633862329843" duration="125000" />
+      <workItem from="1633872973520" duration="42000" />
+      <workItem from="1633936991083" duration="3678000" />
+      <workItem from="1633948488890" duration="1493000" />
+      <workItem from="1633951780975" duration="3148000" />
+      <workItem from="1634005408102" duration="4175000" />
+      <workItem from="1634189916363" duration="341000" />
+      <workItem from="1634191170132" duration="213000" />
+      <workItem from="1634191406355" duration="2313000" />
+      <workItem from="1634541682804" duration="643000" />
+      <workItem from="1634565692986" duration="626000" />
+      <workItem from="1634609987697" duration="4841000" />
+      <workItem from="1634617587023" duration="103000" />
+      <workItem from="1634798327033" duration="1248000" />
+      <workItem from="1634818649493" duration="622000" />
+      <workItem from="1634824071767" duration="901000" />
+      <workItem from="1634825049100" duration="82000" />
+      <workItem from="1634870713904" duration="551000" />
+      <workItem from="1634911499535" duration="26000" />
+      <workItem from="1635146571777" duration="4803000" />
+      <workItem from="1635214926903" duration="5088000" />
+      <workItem from="1635336864525" duration="672000" />
+      <workItem from="1635346458070" duration="339000" />
+      <workItem from="1635399217119" duration="4637000" />
+      <workItem from="1635406402841" duration="180000" />
+      <workItem from="1635751371590" duration="5676000" />
+      <workItem from="1635817755538" duration="9000" />
+      <workItem from="1635819804739" duration="5626000" />
+      <workItem from="1636003659679" duration="1461000" />
+      <workItem from="1636424335025" duration="5546000" />
+      <workItem from="1636609388935" duration="1729000" />
+      <workItem from="1636960685870" duration="3670000" />
+      <workItem from="1637030515707" duration="4694000" />
+      <workItem from="1637565654500" duration="3030000" />
+      <workItem from="1637634057341" duration="4632000" />
+      <workItem from="1637641473560" duration="650000" />
+      <workItem from="1637646677822" duration="906000" />
+      <workItem from="1637676277138" duration="305000" />
+      <workItem from="1637817925878" duration="2194000" />
+      <workItem from="1638239031425" duration="2767000" />
+      <workItem from="1638241926841" duration="2683000" />
+      <workItem from="1638338449649" duration="26000" />
+      <workItem from="1638368476505" duration="1924000" />
+      <workItem from="1638405397301" duration="4553000" />
+      <workItem from="1638411482146" duration="130000" />
+      <workItem from="1638423166202" duration="3427000" />
+      <workItem from="1638440275219" duration="1506000" />
+      <workItem from="1638510474093" duration="1113000" />
+      <workItem from="1638539982238" duration="1304000" />
+      <workItem from="1638542290831" duration="6285000" />
+      <workItem from="1638625707546" duration="2744000" />
+      <workItem from="1638634448411" duration="718000" />
+      <workItem from="1638775649566" duration="8017000" />
+      <workItem from="1638797867866" duration="3283000" />
+      <workItem from="1638843483077" duration="5840000" />
+      <workItem from="1638881151966" duration="5249000" />
+      <workItem from="1638886610361" duration="411000" />
+      <workItem from="1638967683798" duration="2519000" />
+      <workItem from="1639027550546" duration="5050000" />
+      <workItem from="1639033934075" duration="16000" />
+      <workItem from="1639034150901" duration="1238000" />
+      <workItem from="1639036195813" duration="1498000" />
+      <workItem from="1639040628864" duration="4688000" />
+      <workItem from="1639047103274" duration="2209000" />
+      <workItem from="1639057567608" duration="2296000" />
+      <workItem from="1639144785958" duration="617000" />
+      <workItem from="1639149486784" duration="607000" />
+      <workItem from="1639203451169" duration="214000" />
+      <workItem from="1639287410101" duration="1216000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
